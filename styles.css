@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #F8F9FA; /* Light Background */
+}
+
+header {
+    background-color: #003366; /* Navy Blue */
+    padding: 10px 0;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: #FFD700; /* Golden Links */
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.animate-image {
+    transition: transform 0.5s ease;
+}
+
+.animate-image:hover {
+    transform: scale(1.1);
+}
+
+#home {
+    background-color: #F8F9FA; /* Off White */
+    padding: 60px 0;
+    color: #333333;
+}
+
+#services {
+    background-color: #F1F1F1; /* Soft Gray */
+    color: #333333;
+}
+
+#about {
+    background-color: #F8F9FA; /* Off White */
+    color: #333333;
+}
+
+#contact {
+    background-color: #F1F1F1; /* Soft Gray */
+    color: #333333;
+}
+
+h1, h2, h4 {
+    font-weight: 700;
+    color: #333333;
+}
+
+footer {
+    background-color: #003366; /* Navy Blue */
+    color: white;
+}
+
+a {
+    color: #FFD700; /* Golden */
+}
+
+a:hover {
+    color: #003366; /* Navy Blue */
+}
